@@ -1,11 +1,28 @@
-Terminal geek building fast CLI tools.
+# Creptic
 
-Linux • C • Bash • Automation
+Terminal geek. Linux user. I like to build command-line tools.
 
-Currently working on:
+## About
 
-- qbtctl – fast CLI for qBittorrent
-- qbt-onadd – torrent automation tools
-![Linux](https://img.shields.io/badge/Linux-user-blue)
-![C](https://img.shields.io/badge/C-developer-black)
-![CLI](https://img.shields.io/badge/CLI-tools-green)
+I like writing small, efficient utilities that run well in the terminal.  
+Most of my work focuses on:
+
+- CLI tools
+- Linux automation
+- Minimal dependencies
+
+## Projects
+
+### qbtctl
+A fast  command-line client for controlling qBittorrent via the Web API.
+
+Features:
+- static C build
+- manage torrents from the terminal
+- change torrent settings
+- sequential download control
+- automation friendly
+- works well in Docker
+
+### qbt-onadd
+Automation script for qBittorrent that runs when torrents are added.
