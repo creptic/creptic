@@ -1,9 +1,3 @@
-# Creptic
-
-Terminal geek. Linux user. I like to build command-line tools.
-
-## About
-
 I like writing small, efficient utilities that run well in the terminal.  
 Most of my work focuses on:
 
@@ -21,7 +15,6 @@ Features:
 - manage torrents from the terminal
 - change torrent settings
 - sequential download control
-- automation friendly
 - works well in Docker
 
 ### qbt-onadd
