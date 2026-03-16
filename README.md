@@ -1,5 +1,3 @@
-# Creptic
-
 Terminal geek building fast CLI tools.
 
 Linux • C • Bash • Automation
