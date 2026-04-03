@@ -20,5 +20,5 @@ Features:
 ### qbt-onadd
 Automation script for qBittorrent that runs when torrents are added.
 
-### Executioner
+### executioner
 Old hangman I wrote in 1999. still runs in wine and windows, some sound issues. 
