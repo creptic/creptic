@@ -21,4 +21,4 @@ Features:
 Automation script for qBittorrent that runs when torrents are added.
 
 ### executioner
-Old hangman I wrote in 1999. still runs in wine and windows, some sound issues. 
+Old hangman I wrote in 1999. still runs in wine and windows. 
